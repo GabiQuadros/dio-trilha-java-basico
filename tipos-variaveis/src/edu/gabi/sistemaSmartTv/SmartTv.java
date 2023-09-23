@@ -24,16 +24,17 @@ public class SmartTv {
 
     public void aumentarCanal(){
         canal++;
-        System.out.println("ACanal alterado para: " + canal);
+        System.out.println("Canal alterado para: " + canal);
     }
 
     public void diminuirCanal(){
         canal++;
-        System.out.println("ACanal alterado para: " + canal);
+        System.out.println("Canal alterado para: " + canal);
     }
 
     public void  mudarCanal (int novoCanal) {
         canal = novoCanal;
+        System.out.println("Canal alterado para: " + canal);
     }
 
 

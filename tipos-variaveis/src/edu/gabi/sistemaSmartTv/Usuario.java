@@ -21,11 +21,9 @@ public class Usuario {
         System.out.println("Canal atual: " +smartTv.canal);
         smartTv.mudarCanal(13);
 
-      
-       
+        System.out.println("Canal atual: " +smartTv.canal);
 
-        
-
+        smartTv.aumentarCanal();
         System.out.println("Canal atual: " +smartTv.canal);
         System.out.println("Volume atual:  " +smartTv.volume);
 
