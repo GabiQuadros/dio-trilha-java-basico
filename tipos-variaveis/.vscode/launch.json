@@ -1,0 +1,50 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "AboutMeScanner",
+      "request": "launch",
+      "mainClass": "edu.gabi.introducaoJava.AboutMeScanner",
+      "projectName": "tipos-variaveis_a22e0aae"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "edu.gabi.introducaoJava.AboutMe",
+      "projectName": "tipos-variaveis_a22e0aae",
+      "args": ["Gabiela", "Quadros", "37", "1.67"]
+    },
+    {
+      "type": "java",
+      "name": "BoletimEstudantil",
+      "request": "launch",
+      "mainClass": "edu.gabi.introducaoJava.BoletimEstudantil",
+      "projectName": "tipos-variaveis_a22e0aae"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "edu.gabi.introducaoJava.MinhaClasse",
+      "projectName": "tipos-variaveis_a22e0aae"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "edu.gabi.sistemaSmartTv.Usuario",
+      "projectName": "tipos-variaveis_a22e0aae"
+    }
+  ]
+}
